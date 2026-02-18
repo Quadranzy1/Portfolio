@@ -1,2 +1,2 @@
-# Portfolio
-About the work done 
+# Exploring Data: My Portfolio Projects
+This GitHub repository contains a series of my projects as a data analyst, showing the kind of work I do with real-world data. The projects cover data cleaning, organization, and visualization, as well as working with databases and spreadsheets, using Python, SQL, Tableau, and Excel. Each project reflects my approach to understanding data, spotting patterns, and turning information into insights that can help make decisions. This collection gives a clear picture of my skills and the kind of practical, hands-on work I can contribute as an entry-level data analyst.
